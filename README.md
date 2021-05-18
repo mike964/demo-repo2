@@ -1,3 +1,7 @@
 # Demo 2
 
-Some text - second file for test
+Some text - seco
+
+# Demo 3
+
+I am writing this line in branch-2
